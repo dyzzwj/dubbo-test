@@ -197,8 +197,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="171" />
-    <option name="y" value="31" />
+    <option name="x" value="111" />
+    <option name="y" value="78" />
     <option name="width" value="1466" />
     <option name="height" value="911" />
   </component>
@@ -452,15 +452,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594625781910</updated>
-      <workItem from="1594625784943" duration="3592000" />
+      <workItem from="1594625784943" duration="5403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3592000" />
+    <option name="totallyTimeSpent" value="5403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="171" y="31" width="1466" height="911" extended-state="0" />
+    <frame x="111" y="78" width="1466" height="911" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
